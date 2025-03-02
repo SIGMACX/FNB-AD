@@ -7,7 +7,7 @@ conda env create -f FNB.yaml
 '''
 
 ## Dataset
-1. Please download and fill out the application form ('Medical Dataset Access Application Form') and send it to the author's email address. 
+1. Please download and fill out the application form ('Medical Dataset Access Application Form') and send it to the author's email address(yx.chen@whu.edu.cn). 
 2. Place the obtained dataset into the 'data' folder.
 
 ## Training
