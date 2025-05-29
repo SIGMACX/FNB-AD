@@ -6,10 +6,6 @@ you can create a new Conda environment using:
 conda env create -f FNB.yaml
 ```
 
-## Dataset
-1. Please download and fill out the application form ('Medical Dataset Access Application Form') and send it to the author's email address(yx.chen@whu.edu.cn). 
-2. Place the obtained dataset into the 'data' folder.
-
 ## Training
 Modify the corresponding dataset path in the file (tools/config.py).
 
