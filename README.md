@@ -22,6 +22,16 @@ FNB-ADS inference code can run the file
 python main.py
 ```
 
+## Web Inference Setup
+
+1. Download the model weights from [Google Drive](https://drive.google.com/file/d/18QKP3dPUVskKHPpwEvVKYYdFVLYol65y/view?usp=drive_link).  
+2. Download `Web.zip` as well.  
+3. Unzip `models.zip` and place the extracted folder inside the `web` directory, making sure it is at the same level as `app.py`.  
+4. Make sure to update any file paths in the code if necessary (e.g., paths pointing to the models or web assets).  
+5. Run the `app.py` file to start testing.
+
+
+
 Thank you for your interest in FNB-ADS. We have packaged FNB-ADS as a web page that allows you to upload files, perform inference, and download the results.
 
 ## Infer Demonstrations
